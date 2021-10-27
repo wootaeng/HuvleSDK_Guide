@@ -65,7 +65,7 @@ dependencies {
 	* huvle sdk , play-service-ads 
 	*/
 	implementation 'com.google.android.gms:play-services-ads:20.4.0'
-  implementation 'com.byappsoft.sap:HuvleSDK:4.1.1' 
+	implementation 'com.byappsoft.sap:HuvleSDK:4.1.1' 
 	.
 	.
 }
@@ -159,9 +159,9 @@ private void requestSapPermissions() {
 
 
 ## License
-Huvle AdKnowva SDK 의 저작권은 (주)허블에 있습니다.
+Huvle SDK 의 저작권은 (주)허블에 있습니다.
 ```
-Huvle AdKnowva SDK Android
+Huvle SDK Android
 Copyright 2021-present Huvle Corp.
 
 Unauthorized use, modification and redistribution of this software are strongly prohibited.
