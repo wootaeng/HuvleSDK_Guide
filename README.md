@@ -14,7 +14,7 @@ Huvle SDK의 연동 방식은 Gradle을 이용한 방법으로 샘플 예제를 
 
 ### 적용가이드
 - Usages 를 참고하시거나 아래 샘플 프로젝트를 참고해주세요.
-- [모든 애드노바 샘플 프로젝트 다운로드](https://github.com/wootaeng/HuvleAdKnowva_SDK_android/archive/main)
+- [모든  샘플 프로젝트 다운로드](https://github.com/wootaeng/HuvleSDK_Guide/archive/main)
 
 
 ## Usages
