@@ -86,10 +86,11 @@ buildTypes {
 	...
 }
 ```
-앱 업데이트시 네이티브 충돌 관련 워닝처리
-- 위와같이 적용하시면 프로젝트\app\build\outputs\native-debug-symbols\debug\native-debug-symbols.zip 생성됩니다.
-- 구글콘솔에서 앱 업데이트시 해당앱의 app bundle 탐색기 > 저작물 > 네이티브 디버그 기호 > native-debug-symbols.zip 파일 업로드
-- 참조: https://developer.android.com/studio/build/shrink-code?hl=ko#native-crash-support
+> 앱 업데이트시 네이티브 충돌 관련 워닝처리
+>	> 위와같이 적용하시면 프로젝트\app\build\outputs\native-debug-symbols\debug\native-debug-symbols.zip 생성됩니다.    
+>	> 구글콘솔에서 앱 업데이트시 해당앱의 app bundle 탐색기 > 저작물 > 네이티브 디버그 기호 > native-debug-symbols.zip 파일 업로드.    
+> 참조 : https://developer.android.com/studio/build/shrink-code?hl=ko#native-crash-support 
+ 
 
 - proguard-rules.pro아래 코드 추가
 ```
