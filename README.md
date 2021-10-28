@@ -125,7 +125,7 @@ public void onResume() {
 	}
 }
 ```
-Sap_act_main_launcher.initsapStart(this, "에이전트키", true, true); 에이전트 키 정보는 네트워크사에게 문의해주시거나 단독 앱사의 경우 agent.huvle.com에서 회원 가입 시 사용하셨던 아이디와 동일하게 입력하시면됩니다.
+> Sap_act_main_launcher.initsapStart(this, "에이전트키", true, true); 에이전트 키 정보는 네트워크사에게 문의해주시거나 단독 앱사의 경우 agent.huvle.com에서 회원 가입 시 사용하셨던 아이디와 동일하게 입력하시면됩니다.
 
 + 권한설정 부분 추가
 ```java
